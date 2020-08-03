@@ -1,0 +1,1 @@
+This release contains information on the precinct-level returns for local elections in each of the fifty states of the United States for the year of 2016. Precinct-level elections are the smallest component in which electoral districts are divided into.
