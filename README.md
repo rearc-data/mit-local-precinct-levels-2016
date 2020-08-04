@@ -5,7 +5,7 @@
 Local Precinct-Level Returns 2016 | Harvard Dataverse/MEDSL
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-lxew5z52kn5ng](https://aws.amazon.com/marketplace/pp/prodview-lxew5z52kn5ng).
 
 ## Main Overview
 
