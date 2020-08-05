@@ -1,4 +1,4 @@
-Local Precinct-Level Returns 2016 | Harvard Dataverse/MEDSL
+Local Precinct-Level Returns 2016 | Harvard Dataverse / MEDSL
 =========================
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/mit-2016-local-precinct-levels](https://github.com/rearc-data/mit-2016-local-precinct-levels).
